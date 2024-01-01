@@ -2,6 +2,12 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Mark.B",
   "description": "This is a general description of the boilerplate project",
+  "keywords": [
+    "lit",
+    "total rad",
+    "sic as",
+    "freecodecamp"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
